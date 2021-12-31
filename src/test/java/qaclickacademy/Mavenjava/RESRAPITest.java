@@ -20,4 +20,9 @@ public class RESRAPITest {
 	public void deleteTwitter() {
 		System.out.println("deleteTwitter");
 	}
+	
+	@Test
+	public void deleteTwitter2() {
+		System.out.println("deleteTwitter- asian guy demo Develop branch");
+	}
 }
