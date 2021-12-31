@@ -20,4 +20,9 @@ public class SeleniumTest {
 	public void elementsUI2() {
 		System.out.println("elementsUI - asian guy demo Develop branch");
 	}
+	
+	@Test
+	public void elementsUI3() {
+		System.out.println("elementsUI - american demo Develop branch");
+	}
 }
